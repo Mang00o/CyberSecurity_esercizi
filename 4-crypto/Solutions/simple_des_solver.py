@@ -1,7 +1,7 @@
 #the description give us a simplified version of DES.
 #the first idea is to reconstruct the process
 
-#Rule 1. Choose a plaintext that is divisible into 12bit 'blocks'
+#Rule1. Choose a plaintext that is divisible into 12bit 'blocks'
 #Rule2. Choose a key at least 8bits in length
 #Rule3. For each block from i=0 while i<N perform the following operations
 #Rule4. Repeat the following operations on block i, from r=0 while r<R

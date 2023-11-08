@@ -1,5 +1,5 @@
 #open the file
-with open('zero_one', 'r') as file:
+with open('C:/Users/alexc/Desktop/cyber/3-enchoding/Challenges/3_ultraencoded/zero_one', 'r') as file:
     input = file.read()
 
 #print(input)
